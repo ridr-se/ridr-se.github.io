@@ -67,7 +67,9 @@ People: Aleksis Pirinen, Olof Mogren
 
 Project partners: [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/).
 
-The work was published in the journal Remote Sensing (2024), got accepted as an oral at the 2nd ML-for-RS Workshop at ICLR 2024, and was presented as a poster at EUMETSAT 2023. Funded by Vinnova. One of the project deliverables was a developer event (Hackathon) for university students. Code & data available!
+The work was published in the journal Remote Sensing (2024), got accepted as an oral at the 2nd ML-for-RS Workshop at ICLR 2024, and was presented as a poster at EUMETSAT 2023. Funded by Vinnova. One of the project deliverables was a developer event (Hackathon) for university students.
+
+* Code & data available on [github](https://github.com/aleksispi/ml-cloud-opt-thick).
 
 Publications:
 * [Aleksis Pirinen, Nosheen Abid, Nuria Agues Paszkowsky, Thomas Ohlson Timoudas, Ronald Scheirer, Chiara Ceccobello, György Kovács, Anders Persson, Creating and Leveraging a Synthetic Dataset of Cloud Optical Thickness Measures for Cloud Detection in MSI, Journal of Remote Sensing (2024)](https://doi.org/10.3390/rs16040694)
@@ -78,7 +80,7 @@ Publications:
 
 * Funded by the Swedish Environmental Protection Agency.
 
-* Code is available [here](https://github.com/aleksispi/ai-swetlands).
+* Code available on [github](https://github.com/aleksispi/ai-swetlands).
 
 People: Aleksis Pirinen
 
