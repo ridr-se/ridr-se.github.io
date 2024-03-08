@@ -48,7 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-logo: "/images/famle-lab.png"
+logo: "/images/famle-lab.jpg"
 
 # SEO Related
 google_site_verification :
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "FAMLE Lab"
-  avatar           : "famle-lab.png"
+  avatar           : "famle-lab.jpg"
   bio              : "Foundational and Applied Machine Learning for the Earth Lab"
   location         : "Sweden"
   employer         :
