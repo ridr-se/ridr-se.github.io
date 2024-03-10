@@ -13,17 +13,21 @@ author_profile: true
 
 * People: John Martinsson, Olof Mogren.
 * Funded by Vinnova.
+* 2023-2024
 
 ### Structural Causal Models for Distributional Shift in Federated Learning
 
 * People: Edvin Listo Zec, Olof Mogren.
 * Funded by Vinnova.
+* [More information](https://www.vinnova.se/en/p/structural-causal-models-for-distributional-shift-in-federated-learning/)
+* 2023-2024
 
 ### Towards efficient computational fluid dynamics simulations with physics-informed machine learning
 
 * People: Maria Bånkestad, Aleksis Pirinen
 * Funded by Vinnova.
 * [More information](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/)
+* 2023-2024
 
 ### Data Efficient Machine Learning for Earth Observation
 
@@ -35,9 +39,14 @@ author_profile: true
 
 * PhD project.
 * People: John Martinsson, Olof Mogren.
+* Selected publications
+    - John Martinsson and Maria Sandsten. DMEL : The differentiable log-Mel spectrogram as a trainable layer in neural networks. In ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
+    - [John Martinsson, Martin Willbo, Aleksis Pirinen, Olof Mogren, and Maria Sandsten. Few-shot bioacoustic event detection using an event-length adapted ensemble of prototypical networks. In The 7th Workshop on Detection and Classification of Acoustic Scenes and Events, number November, pages 2--6, 2022.](https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Martinsson_13.pdf)
 
 ### AI for Porcelain Recognition
 
+* Partners: [Rörstrand Museum](https://rorstrand-museum.se/)
+* Funded by: Riksantikvarieämbetet (RAÄ) and Västra Götalandsregionen (VGR)
 * People: Martin Willbo, Olof Mogren
 
 ### Agrifood TEF
