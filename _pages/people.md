@@ -90,3 +90,26 @@ Researcher at RISE Research Institutes of Sweden.
 
 * Ebba Ekblom, MSc
 
+## Master's Students
+
+The following master's students are currently writing their master's thesis in the FAMLE Lab.
+
+* Emma Amnemyr and Daniel Björklund: Active Learning and Annotation Efficiency for Object Detection in Coffee Farming (Lund University)
+* Oscar Marklund and Richard Lindholm: Active Learning for Sound Analysis (Lund University)
+* Agnes Ericsson and Malte Åhman: Privileged Information for Earth Observation (Lund University)
+* Tom Hagander and Eric Ihre-Thomason: Distributed Machine Learning (Lund University)
+
+## Previous Master's Students
+
+The following master's students have written their master's thesis in the FAMLE Lab.
+
+* [Edvin Lam: Graph neural networks for physics simulations (Chalmers University of Technology 2021)](https://mogren.one/group/2021/lam/)
+* [Victor Risne, Adele Siitova: Text sumarization using transfer learning (Chalmers University of Technology 2019)](https://mogren.one/group/2019/risne-siitova/)
+* [Soumyadeep Mondal, Vishnu Raveendra Nadhan: Question Answering In Conversational Context (Chalmers University of Technology 2019)](https://mogren.one/group/2019/mondal-nadhan/)
+* [Marie Korneliusson: Deep Learning for Fashion Analysis (Chalmers University of Technology 2019)](https://odr.chalmers.se/bitstream/20.500.12380/256960/1/256960.pdf)
+* [Christian Meijner, Simon Persson: Blood Glucose Prediction for Type 1 Diabetes using Machine Learning(Chalmers University of Technology 2017)](https://mogren.one/group/2017/meijner-persson/)
+* Johan Ekdahl and William Axhav Bratt: Development of an intelligent personal assistant (Chalmers University of Technology 2016)
+* [Jacob Hagstedt P Suorra: Automatic discussion forum assistant using recurrent neural networks (Chalmers University of Technology 2016)](https://mogren.one/group/2016/jacob-hagstedt/)
+* [Sean Pavlov and Simon Almgren: Entity recognition in swedish medical documents (Chalmers University of Technology 2016)](https://mogren.one/group/2016/almgren-pavlov/)
+* [Hampus Bengtsson and Johannes Jansson: Using Classification Algorithms for Smart Suggestions in Accounting Systems (Chalmers University of Technology 2015)](https://mogren.one/group/2015/bengtsson-jansson/)
+* [Yanling Jin and Albin Bramstång: Constructing a Context-aware Recommender System with Web Sessions (Chalmers University of Technology 2015)](https://mogren.one/group/2015/jin-bramstang/)
