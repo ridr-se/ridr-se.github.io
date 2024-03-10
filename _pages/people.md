@@ -57,7 +57,7 @@ Also afiliated with Lund University.
 <img style="float: left;" src="/images/listozec.jpg" />
 **Edvin Listo Zec, MSc**
 
-Defended his PhD in computer science at Chalmers University of Technology in 2018.
+Defended his MSc in engineering mathematics at Chalmers University of Technology in 2017.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Royal Institute of Technology.
 
@@ -68,7 +68,7 @@ Also afiliated with Royal Institute of Technology.
 <img style="float: left;" src="/images/bankestad.png" />
 **Maria Bånkestad, MSc**
 
-Defended his PhD in computer science at Chalmers University of Technology in 2018.
+MSc in physics from Uppsala University.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Uppsala University.
 
@@ -79,7 +79,7 @@ Also afiliated with Uppsala University.
 <img style="float: left;" src="/images/willbo.jpg" />
 **Martin Willbo, MSc**
 
-Defended his PhD in computer science at Chalmers University of Technology in 2018.
+Defended his MSc in computer science at Chalmers University of Technology in 2021.
 Researcher at RISE Research Institutes of Sweden.
 
 
