@@ -15,8 +15,8 @@ visit the following pages for the researchers in our group.
 
 * [Olof Mogren, PhD](https://mogren.one/)
 * [Aleksis Pirinen, PhD](https://aleksispi.github.io)
-* [Edvin Listo Zec, MSc, PhD candidate](https://edvinli.github.io/)
 * [John Martinsson, MSc, PhD candidate](https://johnmartinsson.github.io/)
+* [Edvin Listo Zec, MSc, PhD candidate](https://edvinli.github.io/)
 * [Maria Bånkestad, MSc, PhD candidate](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
 * [Martin Willbo, MSc](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
 
@@ -34,7 +34,7 @@ Senior researcher and head of deep learning research at RISE Research Institutes
 
 Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. 
 
-[More info](https://mogren.one)
+[More info (researcher profile)](https://mogren.one)
       </td>
     </tr>
     <tr>
@@ -49,67 +49,63 @@ Senior researcher at RISE Research Institutes of Sweden.
 
 Aleksis' main research interest is to develop machine learning methods for a broad range of environmental applications (e.g. climate adaptation and humanitarian aid causes).
 
-[More info](https://aleksispi.github.io)
+[More info (researcher profile)](https://aleksispi.github.io)
       </td>
     </tr>
     <tr>
       <td>
-![](images/mogren.png)
+![](images/martinsson.jpg)
       </td>
       <td>
-**Olof Mogren, PhD**
+**John Martinsson, MSc**
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018.
 Senior researcher and head of deep learning research at RISE Research Institutes of Sweden.
 
-In my research, I develop and investigate machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. 
 
-[More info](https://mogren.one)
+[More info (researcher profile)](https://johnmartinsson.github.io)
       </td>
     </tr>
     <tr>
       <td>
-![](images/mogren.png)
+![](images/listozec.jpg)
       </td>
       <td>
-**Olof Mogren, PhD**
+**Edvin Listo Zec, MSc**
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018.
 Senior researcher and head of deep learning research at RISE Research Institutes of Sweden.
 
-In my research, I develop and investigate machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. 
 
-[More info](https://mogren.one)
+[More info (researcher profile)](https://edvinli.github.io)
       </td>
     </tr>
     <tr>
       <td>
-![](images/mogren.png)
+![](images/bankestad.png)
       </td>
       <td>
-**Olof Mogren, PhD**
+**Maria Bånkestad, MSc**
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018.
 Senior researcher and head of deep learning research at RISE Research Institutes of Sweden.
 
-In my research, I develop and investigate machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. 
 
-[More info](https://mogren.one)
+[More info (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
       </td>
     </tr>
     <tr>
       <td>
-![](images/mogren.png)
+![](images/willbo.jpg)
       </td>
       <td>
-**Olof Mogren, PhD**
+**Martin Willbo, MSc**
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018.
 Senior researcher and head of deep learning research at RISE Research Institutes of Sweden.
 
-In my research, I develop and investigate machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. 
 
-[More info](https://mogren.one)
+[More info (scholar)](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
       </td>
     </tr>
   </tbody>
