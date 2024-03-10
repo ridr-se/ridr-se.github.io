@@ -21,7 +21,7 @@ visit the following pages for the researchers in our group.
 * [Martin Willbo, MSc](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
 
 
-<img src="images/mogren.png" style="float: left;" />
+<img style="float: left;" src="/images/mogren.png" />
 **Olof Mogren, PhD**
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018.
@@ -32,7 +32,7 @@ Olof develops and investigates machine learning based solutions to problems rela
 [More info (researcher profile)](https://mogren.one)
 <br break="all" />
 
-<img style="float: left;" src="images/pirinen.jpg" />
+<img style="float: left;" src="/images/pirinen.jpg" />
 **Aleksis Pirinen, PhD**
 
 Defended his PhD in computer vision at Lund University in 2021.
@@ -43,7 +43,7 @@ Aleksis' main research interest is to develop machine learning methods for a bro
 [More info (researcher profile)](https://aleksispi.github.io)
 <br break="all" />
 
-<img style="float: left;" src="images/martinsson.jpg" />
+<img style="float: left;" src="/images/martinsson.jpg" />
 **John Martinsson, MSc**
 
 Defended his MSc in computer science at Chalmers University of Technology in 2017.
@@ -54,7 +54,7 @@ Also afiliated with Lund University.
 [More info (researcher profile)](https://johnmartinsson.github.io)
 <br break="all" />
 
-<img style="float: left;" src="images/listozec.jpg" />
+<img style="float: left;" src="/images/listozec.jpg" />
 **Edvin Listo Zec, MSc**
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018.
@@ -65,7 +65,7 @@ Also afiliated with Royal Institute of Technology.
 [More info (researcher profile)](https://edvinli.github.io)
 <br break="all" />
 
-<img style="float: left;" src="images/bankestad.png" />
+<img style="float: left;" src="/images/bankestad.png" />
 **Maria Bånkestad, MSc**
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018.
@@ -76,7 +76,7 @@ Also afiliated with Uppsala University.
 [More info (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
 <br break="all" />
 
-<img style="float: left;" src="images/willbo.jpg" />
+<img style="float: left;" src="/images/willbo.jpg" />
 **Martin Willbo, MSc**
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018.
