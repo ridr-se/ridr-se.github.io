@@ -16,7 +16,8 @@ visit the following pages for the researchers in our group.
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 2em;" src="/images/people/mogren.png" />
 **Olof Mogren, PhD**
 
-Defended his PhD in computer science at Chalmers University of Technology in 2018.
+Defended his PhD in computer science at Chalmers University of Technology in 2018
+with the thesis [Representation Learning for Natural Language](https://mogren.one/phd/).
 Senior researcher, head of the FAMLE Lab, and responsible for deep learning research at RISE Research Institutes of Sweden.
 
 Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. 
@@ -27,7 +28,8 @@ Olof develops and investigates machine learning based solutions to problems rela
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 2em;" src="/images/people/pirinen.jpg" />
 **Aleksis Pirinen, PhD**
 
-Defended his PhD in computer vision at Lund University in 2021.
+Defended his PhD in computer vision at Lund University in 2021
+with the thesis [Reinforcement Learning for Active Visual Perception](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13).
 Senior researcher at RISE Research Institutes of Sweden.
 
 Aleksis' main research interest is to develop machine learning methods for a broad range of environmental applications (e.g. climate adaptation and humanitarian aid causes).
