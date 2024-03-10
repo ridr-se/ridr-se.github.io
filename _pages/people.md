@@ -21,18 +21,18 @@ visit the following pages for the researchers in our group.
 * [Martin Willbo, MSc](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
 
 
-<img style="float: left;" src="/images/mogren.png" />
+<img style="float: left;" src="/images/people/mogren.png" />
 **Olof Mogren, PhD**
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018.
-Senior researcher and head of deep learning research at RISE Research Institutes of Sweden.
+Senior researcher, head of the FAMLE Lab, and responsible for deep learning research at RISE Research Institutes of Sweden.
 
 Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. 
 
 [More info (researcher profile)](https://mogren.one)
 <br break="all" />
 
-<img style="float: left;" src="/images/pirinen.jpg" />
+<img style="float: left;" src="/images/people/pirinen.jpg" />
 **Aleksis Pirinen, PhD**
 
 Defended his PhD in computer vision at Lund University in 2021.
@@ -43,7 +43,7 @@ Aleksis' main research interest is to develop machine learning methods for a bro
 [More info (researcher profile)](https://aleksispi.github.io)
 <br break="all" />
 
-<img style="float: left;" src="/images/martinsson.jpg" />
+<img style="float: left;" src="/images/people/martinsson.jpg" />
 **John Martinsson, MSc**
 
 Defended his MSc in computer science at Chalmers University of Technology in 2017.
@@ -54,7 +54,7 @@ Also afiliated with Lund University.
 [More info (researcher profile)](https://johnmartinsson.github.io)
 <br break="all" />
 
-<img style="float: left;" src="/images/listozec.jpg" />
+<img style="float: left;" src="/images/people/listozec.jpg" />
 **Edvin Listo Zec, MSc**
 
 Defended his MSc in engineering mathematics at Chalmers University of Technology in 2017.
@@ -65,7 +65,7 @@ Also afiliated with Royal Institute of Technology.
 [More info (researcher profile)](https://edvinli.github.io)
 <br break="all" />
 
-<img style="float: left;" src="/images/bankestad.png" />
+<img style="float: left;" src="/images/people/bankestad.png" />
 **Maria Bånkestad, MSc**
 
 MSc in physics from Uppsala University.
@@ -76,7 +76,7 @@ Also afiliated with Uppsala University.
 [More info (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
 <br break="all" />
 
-<img style="float: left;" src="/images/willbo.jpg" />
+<img style="float: left;" src="/images/people/willbo.jpg" />
 **Martin Willbo, MSc**
 
 Defended his MSc in computer science at Chalmers University of Technology in 2021.
