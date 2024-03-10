@@ -46,8 +46,9 @@ Aleksis' main research interest is to develop machine learning methods for a bro
 <img style="float: left;" src="images/martinsson.jpg" />
 **John Martinsson, MSc**
 
-Defended his PhD in computer science at Chalmers University of Technology in 2018.
-Senior researcher and head of deep learning research at RISE Research Institutes of Sweden.
+Defended his MSc in computer science at Chalmers University of Technology in 2017.
+Researcher and PhD candidate at RISE Research Institutes of Sweden.
+Also afiliated with Lund University.
 
 
 [More info (researcher profile)](https://johnmartinsson.github.io)
@@ -57,7 +58,8 @@ Senior researcher and head of deep learning research at RISE Research Institutes
 **Edvin Listo Zec, MSc**
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018.
-Senior researcher and head of deep learning research at RISE Research Institutes of Sweden.
+Researcher and PhD candidate at RISE Research Institutes of Sweden.
+Also afiliated with Royal Institute of Technology.
 
 
 [More info (researcher profile)](https://edvinli.github.io)
@@ -67,7 +69,8 @@ Senior researcher and head of deep learning research at RISE Research Institutes
 **Maria Bånkestad, MSc**
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018.
-Senior researcher and head of deep learning research at RISE Research Institutes of Sweden.
+Researcher and PhD candidate at RISE Research Institutes of Sweden.
+Also afiliated with Uppsala University.
 
 
 [More info (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
@@ -77,7 +80,7 @@ Senior researcher and head of deep learning research at RISE Research Institutes
 **Martin Willbo, MSc**
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018.
-Senior researcher and head of deep learning research at RISE Research Institutes of Sweden.
+Researcher at RISE Research Institutes of Sweden.
 
 
 [More info (scholar)](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
