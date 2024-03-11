@@ -13,8 +13,9 @@ The Foundational and Applied Machine Learning for Earth Lab (FAMLE) is a team of
 For more info about each member, please
 visit the following pages for the researchers in our group.
 
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/mogren.png" />
 **Olof Mogren, PhD**
+
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/mogren.png" />
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018
 with the thesis [Representation Learning for Natural Language](https://mogren.one/phd/).
