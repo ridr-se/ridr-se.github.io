@@ -24,11 +24,13 @@ Senior researcher, head of the FAMLE Lab, and responsible for deep learning rese
 Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. 
 
 [More info (researcher profile)](https://mogren.one)
+
 <br break="all" />
 
 **Aleksis Pirinen, PhD**
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/pirinen.jpg" />
+
 Defended his PhD in computer vision at Lund University in 2021
 with the thesis [Reinforcement Learning for Active Visual Perception](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13).
 Senior researcher at RISE Research Institutes of Sweden.
@@ -36,49 +38,58 @@ Senior researcher at RISE Research Institutes of Sweden.
 Aleksis' main research interest is to develop machine learning methods for a broad range of environmental applications (e.g. climate adaptation and humanitarian aid causes).
 
 [More info (researcher profile)](https://aleksispi.github.io)
+
 <br break="all" />
 
 **John Martinsson, MSc**
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/martinsson.jpg" />
+
 Defended his MSc in computer science at Chalmers University of Technology in 2017.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Lund University.
 
 
 [More info (researcher profile)](https://johnmartinsson.github.io)
+
 <br break="all" />
 
 **Edvin Listo Zec, MSc**
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/listozec.jpg" />
+
 Defended his MSc in engineering mathematics at Chalmers University of Technology in 2017.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Royal Institute of Technology.
 
 
 [More info (researcher profile)](https://edvinli.github.io)
+
 <br break="all" />
 
 **Maria Bånkestad, MSc**
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/bankestad.png" />
+
 MSc in physics from Uppsala University.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Uppsala University.
 
 
 [More info (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
+
 <br break="all" />
 
 **Martin Willbo, MSc**
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/willbo.jpg" />
+
 Defended his MSc in computer science at Chalmers University of Technology in 2021.
 Researcher at RISE Research Institutes of Sweden.
 
 
 [More info (scholar)](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
+
 <br break="all" />
 
 ## Previous members of the lab
