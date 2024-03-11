@@ -26,9 +26,9 @@ Olof develops and investigates machine learning based solutions to problems rela
 [More info (researcher profile)](https://mogren.one)
 <br break="all" />
 
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/pirinen.jpg" />
 **Aleksis Pirinen, PhD**
 
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/pirinen.jpg" />
 Defended his PhD in computer vision at Lund University in 2021
 with the thesis [Reinforcement Learning for Active Visual Perception](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13).
 Senior researcher at RISE Research Institutes of Sweden.
@@ -38,9 +38,9 @@ Aleksis' main research interest is to develop machine learning methods for a bro
 [More info (researcher profile)](https://aleksispi.github.io)
 <br break="all" />
 
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/martinsson.jpg" />
 **John Martinsson, MSc**
 
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/martinsson.jpg" />
 Defended his MSc in computer science at Chalmers University of Technology in 2017.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Lund University.
@@ -49,9 +49,9 @@ Also afiliated with Lund University.
 [More info (researcher profile)](https://johnmartinsson.github.io)
 <br break="all" />
 
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/listozec.jpg" />
 **Edvin Listo Zec, MSc**
 
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/listozec.jpg" />
 Defended his MSc in engineering mathematics at Chalmers University of Technology in 2017.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Royal Institute of Technology.
@@ -60,9 +60,9 @@ Also afiliated with Royal Institute of Technology.
 [More info (researcher profile)](https://edvinli.github.io)
 <br break="all" />
 
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/bankestad.png" />
 **Maria Bånkestad, MSc**
 
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/bankestad.png" />
 MSc in physics from Uppsala University.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Uppsala University.
@@ -71,9 +71,9 @@ Also afiliated with Uppsala University.
 [More info (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
 <br break="all" />
 
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/willbo.jpg" />
 **Martin Willbo, MSc**
 
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/willbo.jpg" />
 Defended his MSc in computer science at Chalmers University of Technology in 2021.
 Researcher at RISE Research Institutes of Sweden.
 
