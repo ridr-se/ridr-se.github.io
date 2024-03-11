@@ -13,7 +13,7 @@ The Foundational and Applied Machine Learning for Earth Lab (FAMLE) is a team of
 For more info about each member, please
 visit the following pages for the researchers in our group.
 
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 2em;" src="/images/people/mogren.png" />
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/mogren.png" />
 **Olof Mogren, PhD**
 
 Defended his PhD in computer science at Chalmers University of Technology in 2018
@@ -25,7 +25,7 @@ Olof develops and investigates machine learning based solutions to problems rela
 [More info (researcher profile)](https://mogren.one)
 <br break="all" />
 
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 2em;" src="/images/people/pirinen.jpg" />
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/pirinen.jpg" />
 **Aleksis Pirinen, PhD**
 
 Defended his PhD in computer vision at Lund University in 2021
@@ -37,7 +37,7 @@ Aleksis' main research interest is to develop machine learning methods for a bro
 [More info (researcher profile)](https://aleksispi.github.io)
 <br break="all" />
 
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 2em;" src="/images/people/martinsson.jpg" />
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/martinsson.jpg" />
 **John Martinsson, MSc**
 
 Defended his MSc in computer science at Chalmers University of Technology in 2017.
@@ -48,7 +48,7 @@ Also afiliated with Lund University.
 [More info (researcher profile)](https://johnmartinsson.github.io)
 <br break="all" />
 
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 2em;" src="/images/people/listozec.jpg" />
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/listozec.jpg" />
 **Edvin Listo Zec, MSc**
 
 Defended his MSc in engineering mathematics at Chalmers University of Technology in 2017.
@@ -59,7 +59,7 @@ Also afiliated with Royal Institute of Technology.
 [More info (researcher profile)](https://edvinli.github.io)
 <br break="all" />
 
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 2em;" src="/images/people/bankestad.png" />
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/bankestad.png" />
 **Maria Bånkestad, MSc**
 
 MSc in physics from Uppsala University.
@@ -70,7 +70,7 @@ Also afiliated with Uppsala University.
 [More info (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
 <br break="all" />
 
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 2em;" src="/images/people/willbo.jpg" />
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/willbo.jpg" />
 **Martin Willbo, MSc**
 
 Defended his MSc in computer science at Chalmers University of Technology in 2021.
