@@ -92,6 +92,15 @@ Researcher at RISE Research Institutes of Sweden.
 
 <br break="all" />
 
+
+**David Vikstrand**
+
+David is currently an intern at FAMLE Lab.
+
+<br break="all" />
+
+
+
 ## Previous members of the lab
 
 * Ebba Ekblom, MSc
