@@ -8,10 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
-The Foundational and Applied Machine Learning for Earth Lab (FAMLE) is a team of researchers who work on foundational problems within machine learning, and apply our expertise on problems related to climate change and ecology.
+The _Foundational and Applied Machine Learning for the Earth Lab_ (FAMLE) is a team of researchers who work on foundational problems within machine learning, and apply our expertise on problems related to climate change and ecology.
 
-For more info about each member, please
-visit the following pages for the researchers in our group.
+For more info about each member, please visit the following pages for the researchers in our group.
 
 **Olof Mogren, PhD**
 
