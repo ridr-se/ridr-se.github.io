@@ -23,3 +23,11 @@ More information will follow here soon. Until then, please visit the following p
 * [John Martinsson, MSc, PhD candidate](https://johnmartinsson.github.io/)
 * [Maria Bånkestad, MSc, PhD candidate](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
 * [Martin Willbo, MSc](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
+
+<!--## News
+
+**March 2024:** Two papers accepted for the [2nd Machine Learning for Remote Sensing workshop](https://ml-for-rs.github.io/iclr2024/) at ICLR 2024.
+
+*February 2024:* Journal paper accepted for _Remote Sensing_.-->
+
+
