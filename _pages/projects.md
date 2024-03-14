@@ -77,16 +77,6 @@ author_profile: true
     - [2nd ML4RS Workshop 2024](https://ml-for-rs.github.io/iclr2024/)
     - [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023)
 
-### 2022: Machine Learning for Wetland Monitoring in Sweden
-
-* Funded by the Swedish Environmental Protection Agency.
-* Code available on [github](https://github.com/aleksispi/ai-swetlands).
-* People: Aleksis Pirinen
-
-### 2022: Drug Influence Detection Using Computer Vision
-
-* Partner: Sightic Analytics
-* Funded by Vinnova.
 
 {% for p in site.categories.projects %}
 
