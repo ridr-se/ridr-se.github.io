@@ -79,6 +79,8 @@ author_profile: true
 
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 
+{{ nowunix }}
+
 {% assign headlines = "Ongoing Projects, Finished Projects" | split: ", " %}
 
 {% for h in headlines %}
@@ -87,6 +89,7 @@ author_profile: true
 
   {% for p in site.categories.projects %}
     {% capture enddatetime %}{{p.enddate | date: '%s'}}{% endcapture %}
+    {{ enddatetime }}
     {% if enddatetime < nowunix and h == "Finished Projects" or enddatetime >= nowunix and h == "Ongoing Projects" %}
 
 ### {{p.date | date: '%Y'}} {{ p.title }}
