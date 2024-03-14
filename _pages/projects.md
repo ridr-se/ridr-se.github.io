@@ -97,6 +97,9 @@ author_profile: true
 
       {% if p.partners %}
 * Partners: {{ p.partners }}
+      {% for part in p.partners%}
+    - {{ part }}
+      {% endfor %}
       {% endif %}
       {% if p.funders %}
 * Funded by {{ p.funders }}
