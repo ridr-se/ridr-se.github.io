@@ -70,7 +70,7 @@ Also afiliated with Royal Institute of Technology.
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/bankestad.png" />
 
-MSc in physics from Uppsala University.
+Defended her MSc in enigneering physics from Royal Institute of Technology.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Uppsala University.
 

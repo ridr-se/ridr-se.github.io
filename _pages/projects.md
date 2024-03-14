@@ -98,5 +98,9 @@ author_profile: true
   {% for pub in p.publications %}
     - {{ pub }}
   {% endfor %}
+* People:
+{% for pers in p.people %}
+{{ pers }} 
+  {% endfor %}
 {% endfor %}
 
