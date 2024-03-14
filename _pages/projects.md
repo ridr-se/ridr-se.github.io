@@ -92,6 +92,10 @@ author_profile: true
 
 ### {{p.date | date: '%Y'}} {{ p.title }}
 
+  {% if p.description %}
+{{ p.description }}
+  {% endif %}
+
   {% if p.partners %}
 * Partners: {{ p.partners }}
   {% endif %}
@@ -106,6 +110,9 @@ author_profile: true
   {% endif %}
   {% if p.people %}
 * People: {{ p.people | join: ", " }}
+  {% endif %}
+  {% if p.code %}
+* Code: {{ p.code }}
   {% endif %}
 {% endfor %}
 
