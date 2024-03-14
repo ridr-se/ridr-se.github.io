@@ -83,6 +83,8 @@ author_profile: true
 
 {% for h in headlines %}
 
+## {{ h }}
+
   {% for p in site.categories.projects %}
     {% capture enddatetime %}{{p.enddate | date: '%s'}}{% endcapture %}
     {% if enddatetime < nowunix or h == "Ongoing Projects" %}
