@@ -7,7 +7,7 @@ partners:
 - "[AI Sweden](https://www.ai.se/en)"
 - "[Luleå University of Technology](https://www.ltu.se/?l=en)"
 - "[Swedish Forestry Agency](https://www.skogsstyrelsen.se/)"
-code: [github](https://github.com/aleksispi/ml-cloud-opt-thick).
+code: "[github.com/aleksispi/ml-cloud-opt-thick](https://github.com/aleksispi/ml-cloud-opt-thick)"
 publications:
 - "[Aleksis Pirinen, Nosheen Abid, Nuria Agues Paszkowsky, Thomas Ohlson Timoudas, Ronald Scheirer, Chiara Ceccobello, György Kovács, Anders Persson, Creating and Leveraging a Synthetic Dataset of Cloud Optical Thickness Measures for Cloud Detection in MSI, Journal of Remote Sensing (2024)](https://doi.org/10.3390/rs16040694)"
 - "[2nd ML4RS Workshop 2024](https://ml-for-rs.github.io/iclr2024/)"
