@@ -105,10 +105,7 @@ author_profile: true
   {% endfor %}
   {% endif %}
   {% if p.people %}
-* People:
-    {% for pers in p.people %}
-{{ pers }} 
-    {% endfor %}
+* People: {{ p.people | join: ", " }}
   {% endif %}
 {% endfor %}
 
