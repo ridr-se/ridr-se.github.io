@@ -90,7 +90,9 @@ author_profile: true
   {% for p in site.categories.projects %}
     {% capture enddatetime %}{{p.enddate | date: '%s'}}{% endcapture %}
     {{ enddatetime }}
-    {% if (enddatetime < nowunix and h == "Finished Projects") or (enddatetime >= nowunix and h == "Ongoing Projects") %}
+    {% assign crit1 = enddatetime < nowunix and h == "Finished Projects" %}
+    {% assign crit2 = enddatetime >= nowunix and h == "Ongoing Projects" %}
+    {% if crit1 or crit2 %}
 
 ### {{p.date | date: '%Y'}} {{ p.title }}
 
