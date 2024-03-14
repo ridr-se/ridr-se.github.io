@@ -96,7 +96,7 @@ author_profile: true
       {% endif %}
 
       {% if p.partners %}
-* Partners: {{ p.partners }}
+* Partners:
       {% for part in p.partners%}
     - {{ part }}
       {% endfor %}
