@@ -1,6 +1,6 @@
 ---
 title: Machine Learning for Wetland Monitoring in Sweden
-partners: ""
+partners:
 funders: "[The Swedish Environmental Protection Agency](https://www.naturvardsverket.se/)"
 people:
 - Aleksis Pirinen
