@@ -94,5 +94,9 @@ author_profile: true
 
 * Partners: {{ p.partners }}
 * Funded by {{ p.funders }}
+* Publications:
+  {% for pub in p.publications %}
+    - {{ pub }}
+  {% endfor %}
 {% endfor %}
 
