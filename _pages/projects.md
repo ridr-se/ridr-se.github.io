@@ -97,18 +97,25 @@ author_profile: true
 
       {% if p.partners %}
 * Partners:
-      {% for part in p.partners%}
+        {% for part in p.partners %}
     - {{ part }}
-      {% endfor %}
+        {% endfor %}
       {% endif %}
       {% if p.funders %}
+        {% if p.funders.first %}
+* Funded by:
+          {% for funder in p.funders %}
+    - {{ funder }}
+          {% endfor %}
+        {% else %}
 * Funded by {{ p.funders }}
+        {% endif %}
       {% endif %}
       {% if p.publications %}
 * Publications:
-      {% for pub in p.publications %}
+        {% for pub in p.publications %}
     - {{ pub }}
-      {% endfor %}
+        {% endfor %}
       {% endif %}
       {% if p.people %}
 * People: {{ p.people | join: ", " }}
