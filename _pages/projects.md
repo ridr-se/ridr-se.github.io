@@ -92,15 +92,23 @@ author_profile: true
 
 ### {{p.date | date: '%Y'}} {{ p.title }}
 
+  {% if p.partners %}
 * Partners: {{ p.partners }}
+  {% endif %}
+  {% if p.funders %}
 * Funded by {{ p.funders }}
+  {% endif %}
+  {% if p.publications %}
 * Publications:
   {% for pub in p.publications %}
     - {{ pub }}
   {% endfor %}
+  {% endif %}
+  {% if p.people %}
 * People:
-{% for pers in p.people %}
+    {% for pers in p.people %}
 {{ pers }} 
-  {% endfor %}
+    {% endfor %}
+  {% endif %}
 {% endfor %}
 
