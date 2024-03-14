@@ -77,32 +77,41 @@ author_profile: true
     - [2nd ML4RS Workshop 2024](https://ml-for-rs.github.io/iclr2024/)
     - [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023)
 
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 
-{% for p in site.categories.projects %}
+{% assign headlines = "Ongoing Projects, Finished Projects" | split: ", " %}
+
+{% for h in headlines %}
+
+  {% for p in site.categories.projects %}
+    {% capture enddatetime %}{{p.enddate | date: '%s'}}{% endcapture %}
+    {% if enddatetime < nowunix or h == "Ongoing Projects" %}
 
 ### {{p.date | date: '%Y'}} {{ p.title }}
 
-  {% if p.description %}
+      {% if p.description %}
 {{ p.description }}
-  {% endif %}
+      {% endif %}
 
-  {% if p.partners %}
+      {% if p.partners %}
 * Partners: {{ p.partners }}
-  {% endif %}
-  {% if p.funders %}
+      {% endif %}
+      {% if p.funders %}
 * Funded by {{ p.funders }}
-  {% endif %}
-  {% if p.publications %}
+      {% endif %}
+      {% if p.publications %}
 * Publications:
-  {% for pub in p.publications %}
+      {% for pub in p.publications %}
     - {{ pub }}
-  {% endfor %}
-  {% endif %}
-  {% if p.people %}
+      {% endfor %}
+      {% endif %}
+      {% if p.people %}
 * People: {{ p.people | join: ", " }}
-  {% endif %}
-  {% if p.code %}
+      {% endif %}
+      {% if p.code %}
 * Code: {{ p.code }}
-  {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
 
