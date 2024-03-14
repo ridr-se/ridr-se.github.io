@@ -87,3 +87,12 @@ author_profile: true
 
 * Partner: Sightic Analytics
 * Funded by Vinnova.
+
+{% for p in site.categories.publications %}
+
+### {{p.date | date: '%Y'}} {{ p.title }}
+
+* Partners: {{ p.partners }}
+* Funded by {{ p.funders }}
+{% endfor %}
+
