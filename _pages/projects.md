@@ -93,23 +93,19 @@ author_profile: true
 
 ### {{p.date | date: '%Y'}} {{ p.title }}
 
-      {% if p.description %}{{ p.description }}{% endif %}
-      {% if p.partners %}* Partners:
-        {% for part in p.partners %}
+{% if p.description %}{{ p.description }}{% endif %}
+
+{% if p.partners %}* Partners:{% for part in p.partners %}
     - {{ part }}{% endfor %}
-      {% endif %}
-      {% if p.funders %}
-      {% if p.funders.first %}* Funded by:
-          {% for funder in p.funders %}
+{% endif %}
+{% if p.funders %}{% if p.funders.first %}* Funded by:{% for funder in p.funders %}
     - {{ funder }}{% endfor %}
-        {% else %}* Funded by {{ p.funders }}{% endif %}
-      {% endif %}
-      {% if p.publications %}* Publications:
-        {% for pub in p.publications %}
-    - {{ pub }}{% endfor %}
-      {% endif %}
-      {% if p.people %}* People: {{ p.people | join: ", " }}{% endif %}
-      {% if p.code %}* Code: {{ p.code }}{% endif %}
+{% else %}* Funded by {{ p.funders }}{% endif %}{% endif %}
+{% if p.publications %}* Publications:{% for pub in p.publications %}
+    - {{ pub }}{% endfor %}{% endif %}
+{% if p.people %}* People: {{ p.people | join: ", " }}{% endif %}
+{% if p.code %}* Code: {{ p.code }}{% endif %}
+
     {% endif %}
   {% endfor %}
 {% endfor %}
