@@ -117,6 +117,10 @@ The following master's students are currently writing their master's thesis in t
 
 The following master's students have written their master's thesis in the FAMLE Lab.
 
+* [Axel Eiman, Nils Eickhoff: Weakly semi-supervised object detection for annotation efficiency: Leveraging a mix of strong bounding box labels and weak point labels for detecting coffee berry disease (Chalmers University of Technology 2023)](https://drive.google.com/file/d/1KHbFBNb-sbOtXQdq2O7nk3l4NOOsPF49/view?usp=sharing)
+* [Ennio Rampello: High-altitude navigation to improve the performance of AiRLoc: An RL model for drone navigation (KTH Royal Institute of Technology 2023)](https://drive.google.com/file/d/1wg4znYHNi6AtMfpbGtPquu6ZcZEdMQjy/view?usp=sharing)
+* [Vishal Nedungadi: Active street to aerial view geo-localization (KTH Royal Institute of Technology 2023)](https://drive.google.com/file/d/1pfz6ApZWeQm586MAjSNQct9BRN-QNTbi/view?usp=sharing)
+* [Anton Samuelsson, John Backsund: Aerial View Goal Localization with Reinforcement Learning (Lund University 2022)](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9088977&fileOId=9089013)
 * [Edvin Lam: Graph neural networks for physics simulations (Chalmers University of Technology 2021)](https://mogren.one/group/2021/lam/)
 * [Victor Risne, Adele Siitova: Text sumarization using transfer learning (Chalmers University of Technology 2019)](https://mogren.one/group/2019/risne-siitova/)
 * [Soumyadeep Mondal, Vishnu Raveendra Nadhan: Question Answering In Conversational Context (Chalmers University of Technology 2019)](https://mogren.one/group/2019/mondal-nadhan/)
