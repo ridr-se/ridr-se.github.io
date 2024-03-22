@@ -17,7 +17,7 @@ and apply our expertise on problems related to climate change and ecology.
 
 ## [News](/news/)
 
-{% for p in site.categories.news %}
+{% for p in site.categories.news limit: 3 %}
 * {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} [(Read more)]({{ p.url }})
 {% endfor %}
 
