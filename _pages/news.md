@@ -18,7 +18,7 @@ author_profile: true
 
 {% if p.shortversion %}{{ p.shortversion }}{% endif %}
 
-{% if p.people %}{{ p.people | join: ", " }}{% endif %}
+*{% if p.people %}{{ p.people | join: ", " }}{% endif %}*
 
 {% endfor %}
 
