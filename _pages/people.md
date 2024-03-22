@@ -44,7 +44,7 @@ Aleksis' main research interest is to develop machine learning methods for a bro
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/bankestad.png" />
 
-Defended her MSc in enigneering physics from Royal Institute of Technology.
+Defended her MSc in enigneering physics from Royal Institute of Technology in 2012.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Uppsala University.
 
