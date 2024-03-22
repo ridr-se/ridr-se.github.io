@@ -22,6 +22,8 @@ and apply our expertise on problems related to climate change and ecology.
 
 ## [FAMLE People](/people/)
 
+![](/images/people/all.jpg)
+
 * [Olof Mogren, PhD](https://mogren.one/)
 * [Aleksis Pirinen, PhD](https://aleksispi.github.io)
 * [Edvin Listo Zec, MSc, PhD candidate](https://edvinli.github.io/)
