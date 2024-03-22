@@ -40,6 +40,19 @@ Aleksis' main research interest is to develop machine learning methods for a bro
 
 <br break="all" />
 
+**Maria Bånkestad, MSc**
+
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/bankestad.png" />
+
+Defended her MSc in enigneering physics from Royal Institute of Technology.
+Researcher and PhD candidate at RISE Research Institutes of Sweden.
+Also afiliated with Uppsala University.
+
+
+[More info (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
+
+<br break="all" />
+
 **John Martinsson, MSc**
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/martinsson.jpg" />
@@ -63,19 +76,6 @@ Also afiliated with Royal Institute of Technology.
 
 
 [More info (researcher profile)](https://edvinli.github.io)
-
-<br break="all" />
-
-**Maria Bånkestad, MSc**
-
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/bankestad.png" />
-
-Defended her MSc in enigneering physics from Royal Institute of Technology.
-Researcher and PhD candidate at RISE Research Institutes of Sweden.
-Also afiliated with Uppsala University.
-
-
-[More info (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
 
 <br break="all" />
 
