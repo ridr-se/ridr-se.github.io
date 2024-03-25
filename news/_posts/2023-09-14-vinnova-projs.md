@@ -1,6 +1,7 @@
 ---
 title: Three Vinnova grants obtained
-shortversion: "Three Vinnova grants obtained (Emerging Technology Solutions)"
+shortversion: "Three Vinnova grants obtained (Emerging Technology Solutions): [_Towards efficient computational fluid dynamics simulations with physics-informed machine learning_](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/), _Active learning for ecological monitoring_, and [_Structural causal models for distributional shift in federated learning_](https://www.vinnova.se/en/p/structural-causal-models-for-distributional-shift-in-federated-learning/).
+"
 people:
 - Olof Mogren
 - Aleksis Pirinen
