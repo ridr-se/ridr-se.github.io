@@ -31,6 +31,11 @@ author_profile: true
 
 ### {{p.date | date: '%Y'}} {{ p.title }}
 
+{% if p.image %}
+<img src="{{ p.image }}" style="float: right; width: 25%;" />
+{% endif %}
+
+
 {% if p.description %}{{ p.description }}{% endif %}
 
 {% if p.partners %}* Partners:{% for part in p.partners %}

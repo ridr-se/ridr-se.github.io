@@ -18,9 +18,7 @@ author_profile: true
 <span style="color:grey;">*{{p.date | date: '%Y-%m-%d'}}*</span>
 
 {% if p.image %}
-
 <img src="{{ p.image }}" style="float: right; width: 25%;" />
-
 {% endif %}
 
 {% if p.shortversion %}{{ p.shortversion }}{% endif %}
