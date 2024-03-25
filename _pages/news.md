@@ -17,6 +17,12 @@ author_profile: true
 ## {{ p.title }}
 <span style="color:grey;">*{{p.date | date: '%Y-%m-%d'}}*</span>
 
+{% if p.image %}
+
+<img src="{{ p.image }}" style="float: right; width: 25%;" />
+
+{% endif %}
+
 {% if p.shortversion %}{{ p.shortversion }}{% endif %}
 
 *{% if p.people %}{{ p.people | join: ", " }}{% endif %}*
