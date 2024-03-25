@@ -1,6 +1,6 @@
 ---
 title: Three Vinnova grants obtained
-shortversion: "Three Vinnova grants obtained ("Emerging Technology Solutions")"
+shortversion: "Three Vinnova grants obtained (Emerging Technology Solutions)"
 people:
 - Olof Mogren
 - Aleksis Pirinen
