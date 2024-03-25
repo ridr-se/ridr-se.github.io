@@ -14,7 +14,8 @@ author_profile: true
 
 {% for p in site.categories.news %}
 
-## {{p.date | date: '%Y-%m-%d'}}: {{ p.title }}
+## {{ p.title }}
+<span style="color:grey;">*{{p.date | date: '%Y-%m-%d'}}*</span>
 
 {% if p.shortversion %}{{ p.shortversion }}{% endif %}
 
