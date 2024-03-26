@@ -61,6 +61,7 @@ layout: default
 	{% capture stripped_content %}{{ content | strip }}{% endcapture %}
 	{% if stripped_content %}
         {{ content }}
+	stripped
 	{% elsif page.shortversion %}
 	{{ page.shortversion }}
 	{% endif %}
