@@ -58,7 +58,8 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-	{% if content %}
+	{% capture stripped_content %}{{ content | strip }}{% endcapture %}
+	{% if stripped_content %}
         {{ content }}
 	{% elsif page.shortversion %}
 	{{ page.shortversion }}
