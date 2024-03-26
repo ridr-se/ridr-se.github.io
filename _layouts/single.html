@@ -60,7 +60,7 @@ layout: default
       <section class="page__content" itemprop="text">
 	{% capture stripped_content %}{{ content | strip }}{% endcapture %}
 	{% if stripped_content %}
-        {{ content }}
+        "{{ content }}"
 	stripped
 	{% elsif page.shortversion %}
 	{{ page.shortversion }}
