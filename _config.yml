@@ -59,6 +59,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
+bsky:
+  username               : &bsky
 facebook:
   username               :
   app_id                 :
@@ -110,6 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+  bsky             : 
   twitter          : 
   vine             :
   weibo            :
