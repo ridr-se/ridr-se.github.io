@@ -59,7 +59,7 @@ layout: default
 
       <section class="page__content" itemprop="text">
 	{% capture stripped_content %}{{ content | strip }}{% endcapture %}
-	{% if stripped_content %}
+	{% if stripped_content != '' %}
         "{{ content }}"
 	stripped
 	{% elsif page.shortversion %}
