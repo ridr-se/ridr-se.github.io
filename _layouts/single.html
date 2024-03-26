@@ -61,7 +61,7 @@ layout: default
 	{% capture stripped_content %}{{ content | strip }}{% endcapture %}
 	{% if stripped_content != '' %}
         "{{ content }}"
-	stripped
+	stripped 2
 	{% elsif page.shortversion %}
 	{{ page.shortversion }}
 	{% endif %}
