@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RISE DL group"
+title                    : "RISE DL research group"
 title_separator          : "-"
-name                     : &name "RISE DL group"
+name                     : &name "RISE DL research group"
 description              : &description "personal description"
 url                      : https://dl-group.se  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
