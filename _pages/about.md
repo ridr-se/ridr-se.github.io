@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to the _Deep learning research group at RISE_.
+Welcome to the _Deep Learning Research Group at RISE_.
 We're a [team of researchers](https://dl-group.se/people/) who work on foundational problems within machine learning,
 and apply our expertise on problems related to climate change and ecology.
 
