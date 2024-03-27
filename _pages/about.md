@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "FAMLE Lab"
-excerpt: "FAMLE Lab"
+title: "DL group"
+excerpt: "DL group"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-Welcome to _FAMLE: Foundational and Applied Machine Learning for the Earth Lab_.
-We're a [team of researchers](https://famle-lab.org/people/) who work on foundational problems within machine learning,
+Welcome to the _DL group; the Deep learning research group at RISE_.
+We're a [team of researchers](https://dl-group.se/people/) who work on foundational problems within machine learning,
 and apply our expertise on problems related to climate change and ecology.
 
 ## [News](/news/)
@@ -20,7 +20,7 @@ and apply our expertise on problems related to climate change and ecology.
 {% endfor %}
 
 
-## [FAMLE People](/people/)
+## [People](/people/)
 
 ![](/images/people/all.jpg)
 

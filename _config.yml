@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "FAMLE Lab"
+title                    : "DL group"
 title_separator          : "-"
-name                     : &name "FAMLE Lab"
+name                     : &name "DL group"
 description              : &description "personal description"
-url                      : https://famle-lab.org  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dl-group.se  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "famle-lab/famle-lab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "FAMLE Lab"
+  name             : "DL group"
   avatar           : "famle-lab.jpg"
   bio              : "Foundational and Applied Machine Learning for the Earth"
   location         : "Sweden"
