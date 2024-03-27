@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RISE DL research group"
+title                    : "RISE DL Research Group"
 title_separator          : "-"
-name                     : &name "RISE DL research group"
+name                     : &name "RISE DL Research Group"
 description              : &description "personal description"
 url                      : https://dl-group.se  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "RISE DL group"
+  name             : "RISE DL Research Group"
   avatar           : "famle-lab.jpg"
   bio              : "Foundational and applied machine learning for the Earth"
   location         : "Sweden"
