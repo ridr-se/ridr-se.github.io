@@ -7,10 +7,7 @@ author_profile: true
 {% endif %}
 {% include base_path %}
 
-
-The Deep learning research group at RISE is a team of researchers who work on foundational problems within machine learning, and apply our expertise on problems related to climate change and ecology.
-
-For more info about each member, please visit the following pages for the researchers in our group.
+We at the Deep Learning Research Group at RISE are a team of researchers who work on foundational problems within machine learning, and apply our expertise on problems related to climate change and ecology.
 
 **Olof Mogren, PhD**
 
