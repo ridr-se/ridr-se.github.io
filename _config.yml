@@ -13,7 +13,7 @@ name                     : &name "RISE DL group"
 description              : &description "personal description"
 url                      : https://dl-group.se  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "famle-lab/famle-lab.github.io"
+repository               : "dl-group-se/dl-group-se.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "famle-lab"
+  github           : "dl-group-se"
   google_plus      :
   keybase          :
   instagram        :
