@@ -13,7 +13,7 @@ Welcome to the _Deep Learning Research Group at RISE_.
 We're a [team of researchers](https://dl-group.se/people/) who work on foundational problems within machine learning,
 and apply our expertise on problems related to climate change and ecology. We also host the weekly
 [Learning Machines seminar series](https://www.ri.se/en/what-we-do/educations/learning-machines-seminars) at RISE
--- [have a look](https://www.youtube.com/playlist?list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1) our great collection of talks.
+-- [have a look](https://www.youtube.com/playlist?list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1) at our great collection of talks.
 
 ## [News](/news/)
 
