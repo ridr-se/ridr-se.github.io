@@ -19,7 +19,8 @@ Senior researcher, head of the DL group, and responsible for deep learning resea
 
 Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. 
 
-[More info (researcher profile)](https://mogren.one)
+* [More info (researcher profile)](https://mogren.one/)
+* [Publications (scholar)](https://scholar.google.se/citations?user=m_n28oAAAAAJ)
 
 <br break="all" />
 
@@ -33,7 +34,8 @@ Senior researcher at RISE Research Institutes of Sweden.
 
 Aleksis' main research interest is to develop machine learning methods for a broad range of environmental applications (e.g. climate adaptation and humanitarian aid causes).
 
-[More info (researcher profile)](https://aleksispi.github.io)
+* [More info (researcher profile)](https://aleksispi.github.io)
+* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=paBGTgsAAAAJ)
 
 <br break="all" />
 
@@ -46,7 +48,8 @@ Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Uppsala University.
 
 
-[More info (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
+* [More info (researcher profile)](https://mariabankestad.github.io/)
+* [Publications (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
 
 <br break="all" />
 
@@ -59,7 +62,8 @@ Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Lund University.
 
 
-[More info (researcher profile)](https://johnmartinsson.github.io)
+* [More info (researcher profile)](https://johnmartinsson.github.io)
+* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=sAMIwlMAAAAJ)
 
 <br break="all" />
 
@@ -72,7 +76,8 @@ Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Royal Institute of Technology.
 
 
-[More info (researcher profile)](https://edvinli.github.io)
+* [More info (researcher profile)](https://edvinli.github.io)
+* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=Ft52aSsAAAAJ)
 
 <br break="all" />
 
@@ -84,7 +89,7 @@ Defended his MSc in computer science at Chalmers University of Technology in 202
 Researcher at RISE Research Institutes of Sweden.
 
 
-[More info (scholar)](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
+* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
 
 <br break="all" />
 
