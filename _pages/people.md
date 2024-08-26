@@ -109,7 +109,7 @@ The following master's students have written their master's theses in the DL gro
 
 * [Emma Amnemyr and Daniel Björklund: Active Learning and Annotation Efficiency for Object Detection in Coffee Farming (Lund University)](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9164704&fileOId=9164725)
 * Oscar Marklund and Richard Lindholm: Active Learning for Sound Analysis (Lund University)
-* Agnes Ericsson and Malte Åhman: Privileged Information for Earth Observation (Lund University)
+* [Agnes Ericsson and Malte Åhman: Privileged Information for Earth Observation (Lund University)](https://drive.google.com/file/d/1otw6jk_ajaa8kPTnGqJmCxS500INqOw6/view?usp=sharing)
 * Tom Hagander and Eric Ihre-Thomason: Distributed Machine Learning (Lund University)
 * [Axel Eiman, Nils Eickhoff: Weakly semi-supervised object detection for annotation efficiency: Leveraging a mix of strong bounding box labels and weak point labels for detecting coffee berry disease (Chalmers University of Technology 2023)](https://drive.google.com/file/d/1KHbFBNb-sbOtXQdq2O7nk3l4NOOsPF49/view?usp=sharing)
 * [Ennio Rampello: High-altitude navigation to improve the performance of AiRLoc: An RL model for drone navigation (KTH Royal Institute of Technology 2023)](https://drive.google.com/file/d/1wg4znYHNi6AtMfpbGtPquu6ZcZEdMQjy/view?usp=sharing)
