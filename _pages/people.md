@@ -19,7 +19,8 @@ Senior researcher, head of the DL group, and responsible for deep learning resea
 
 Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. 
 
-[More info (researcher profile)](https://mogren.one)
+* [More info (researcher profile)](https://mogren.one/)
+* [Publications (scholar)](https://scholar.google.se/citations?user=m_n28oAAAAAJ)
 
 <br break="all" />
 
@@ -33,7 +34,8 @@ Senior researcher at RISE Research Institutes of Sweden.
 
 Aleksis' main research interest is to develop machine learning methods for a broad range of environmental applications (e.g. climate adaptation and humanitarian aid causes).
 
-[More info (researcher profile)](https://aleksispi.github.io)
+* [More info (researcher profile)](https://aleksispi.github.io)
+* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=paBGTgsAAAAJ)
 
 <br break="all" />
 
@@ -46,7 +48,8 @@ Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Uppsala University.
 
 
-[More info (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
+* [More info (researcher profile)](https://mariabankestad.github.io/)
+* [Publications (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
 
 <br break="all" />
 
@@ -59,7 +62,8 @@ Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Lund University.
 
 
-[More info (researcher profile)](https://johnmartinsson.github.io)
+* [More info (researcher profile)](https://johnmartinsson.github.io)
+* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=sAMIwlMAAAAJ)
 
 <br break="all" />
 
@@ -72,7 +76,8 @@ Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Royal Institute of Technology.
 
 
-[More info (researcher profile)](https://edvinli.github.io)
+* [More info (researcher profile)](https://edvinli.github.io)
+* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=Ft52aSsAAAAJ)
 
 <br break="all" />
 
@@ -84,36 +89,28 @@ Defended his MSc in computer science at Chalmers University of Technology in 202
 Researcher at RISE Research Institutes of Sweden.
 
 
-[More info (scholar)](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
+* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
 
 <br break="all" />
-
-
-**David Vikstrand**
-
-David is currently an intern at DL group.
-
-<br break="all" />
-
 
 
 ## Previous members of the lab
 
 * Ebba Ekblom, MSc
+* David Vikstrand did an internship at the DL group during the spring of 2024
+
+<!--## Master's Students
+
+The following master's students are currently writing their master's thesis in the DL group.-->
 
 ## Master's Students
 
-The following master's students are currently writing their master's thesis in the DL group.
+The following master's students have written their master's theses in the DL group.
 
-* Emma Amnemyr and Daniel Björklund: Active Learning and Annotation Efficiency for Object Detection in Coffee Farming (Lund University)
+* [Emma Amnemyr and Daniel Björklund: Active Learning and Annotation Efficiency for Object Detection in Coffee Farming (Lund University)](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9164704&fileOId=9164725)
 * Oscar Marklund and Richard Lindholm: Active Learning for Sound Analysis (Lund University)
-* Agnes Ericsson and Malte Åhman: Privileged Information for Earth Observation (Lund University)
+* [Agnes Ericsson and Malte Åhman: Privileged Information for Earth Observation (Lund University)](https://drive.google.com/file/d/1otw6jk_ajaa8kPTnGqJmCxS500INqOw6/view?usp=sharing)
 * Tom Hagander and Eric Ihre-Thomason: Distributed Machine Learning (Lund University)
-
-## Previous Master's Students
-
-The following master's students have written their master's thesis in the DL group.
-
 * [Axel Eiman, Nils Eickhoff: Weakly semi-supervised object detection for annotation efficiency: Leveraging a mix of strong bounding box labels and weak point labels for detecting coffee berry disease (Chalmers University of Technology 2023)](https://drive.google.com/file/d/1KHbFBNb-sbOtXQdq2O7nk3l4NOOsPF49/view?usp=sharing)
 * [Ennio Rampello: High-altitude navigation to improve the performance of AiRLoc: An RL model for drone navigation (KTH Royal Institute of Technology 2023)](https://drive.google.com/file/d/1wg4znYHNi6AtMfpbGtPquu6ZcZEdMQjy/view?usp=sharing)
 * [Vishal Nedungadi: Active street to aerial view geo-localization (KTH Royal Institute of Technology 2023)](https://drive.google.com/file/d/1pfz6ApZWeQm586MAjSNQct9BRN-QNTbi/view?usp=sharing)
