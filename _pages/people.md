@@ -62,7 +62,7 @@ Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Lund University.
 
 
-* [More info (researcher profile)](https://johnmartinsson.github.io)
+* [More info (researcher profile)](https://johnmartinsson.org)
 * [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=sAMIwlMAAAAJ)
 
 <br break="all" />
