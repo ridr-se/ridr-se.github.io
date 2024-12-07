@@ -29,7 +29,7 @@ and apply our expertise on problems related to climate change and ecology. We al
 * [Olof Mogren, PhD](https://mogren.one/)
 * [Aleksis Pirinen, PhD](https://aleksispi.github.io)
 * [Maria Bånkestad, MSc, PhD candidate](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
-* [John Martinsson, MSc, PhD candidate](https://johnmartinsson.github.io/)
+* [John Martinsson, MSc, PhD candidate](https://johnmartinsson.org/)
 * [Edvin Listo Zec, MSc, PhD candidate](https://edvinli.github.io/)
 * [Martin Willbo, MSc](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
 
