@@ -6,4 +6,4 @@ people:
 - Olof Mogren
 ---
 
-A warm congratulation from the DL group to [Dr. Edvin Listo Zec](https://edvinli.github.io/) for successfully defending his thesis [_Decentralized deep learning in statistically heterogeneous environments_](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1921206&dswid=297). Edvin is the first alumni from the DL group. 
+A warm congratulation from the DL group to [Dr. Edvin Listo Zec](https://edvinli.github.io/) for successfully defending his thesis [_Decentralized deep learning in statistically heterogeneous environments_](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1921206&dswid=297).
