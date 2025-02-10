@@ -31,7 +31,6 @@ and apply our expertise on problems related to climate change and ecology. We al
 * [Edvin Listo Zec, PhD](https://edvinli.github.io/)
 * [Maria Bånkestad, MSc, PhD candidate](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
 * [John Martinsson, MSc, PhD candidate](https://johnmartinsson.org/)
-* [Martin Willbo, MSc](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
 
 [Visit our Scholar profile](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AILGF5UiJtxGkjJ5z3BHO8C37KQwQysUjHyMJAJ1_USVi8t0aoC30hfUabA1jtbynBICV0v_UZzGMFRF8Oq3TtmW4gRaixB3HQ_MIBuoOYsG&user=yc43h58AAAAJ)
 
