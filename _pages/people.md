@@ -39,6 +39,19 @@ Aleksis' main research interest is to develop machine learning methods for a bro
 
 <br break="all" />
 
+**Edvin Listo Zec, PhD**
+
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/listozec.jpg" />
+
+Senior Researcher at RISE Research Institutes of Sweden.
+Defended his PhD in 2025 at the Royal Institute of Technology.
+Defended his MSc in engineering mathematics at Chalmers University of Technology in 2017.
+
+* [More info (researcher profile)](https://edvinli.github.io)
+* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=Ft52aSsAAAAJ)
+
+<br break="all" />
+
 **Maria Bånkestad, MSc**
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/bankestad.png" />
@@ -46,7 +59,6 @@ Aleksis' main research interest is to develop machine learning methods for a bro
 Defended her MSc in enigneering physics from Royal Institute of Technology in 2012.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Uppsala University.
-
 
 * [More info (researcher profile)](https://mariabankestad.github.io/)
 * [Publications (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
@@ -61,23 +73,8 @@ Defended his MSc in computer science at Chalmers University of Technology in 201
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Also afiliated with Lund University.
 
-
 * [More info (researcher profile)](https://johnmartinsson.org)
 * [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=sAMIwlMAAAAJ)
-
-<br break="all" />
-
-**Edvin Listo Zec, MSc**
-
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/listozec.jpg" />
-
-Defended his MSc in engineering mathematics at Chalmers University of Technology in 2017.
-Researcher and PhD candidate at RISE Research Institutes of Sweden.
-Also afiliated with Royal Institute of Technology.
-
-
-* [More info (researcher profile)](https://edvinli.github.io)
-* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=Ft52aSsAAAAJ)
 
 <br break="all" />
 
