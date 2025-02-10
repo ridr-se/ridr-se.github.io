@@ -78,21 +78,9 @@ Also afiliated with Lund University.
 
 <br break="all" />
 
-**Martin Willbo, MSc**
-
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/willbo.jpg" />
-
-Defended his MSc in computer science at Chalmers University of Technology in 2021.
-Researcher at RISE Research Institutes of Sweden.
-
-
-* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=uuxnINUAAAAJ)
-
-<br break="all" />
-
-
 ## Previous members of the lab
 
+* Martin Willbo, MSc
 * Ebba Ekblom, MSc
 * David Vikstrand did an internship at the DL group during the spring of 2024
 
