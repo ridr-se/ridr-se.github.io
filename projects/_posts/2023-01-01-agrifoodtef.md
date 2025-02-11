@@ -10,6 +10,7 @@ Built as a network of physical and digital facilities across Europe, the project
 More information: [www.agrifoodtef.eu](https://www.agrifoodtef.eu/).
 "
 people:
+- Olof Mogren
 - Aleksis Pirinen
 ---
 
