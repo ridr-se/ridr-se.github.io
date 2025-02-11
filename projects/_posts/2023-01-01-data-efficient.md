@@ -1,12 +1,14 @@
 ---
-title: Data Efficient Machine Learning for Earth Observation
-description: "PhD project focusing on data efficient machine learning for earth observation."
-enddate: 2028-06-30
+title: Robust Machine Learning for Earth Observation
+description: "1-year project focusing on data efficient machine learning for earth observation."
+enddate: 2024-12-31
 partners:
 - "[Lund University](https://www.lu.se/)"
 funders:
 people:
 - Martin Willbo
+- John Martinsson-
+- Edvin Listo Zec
 - Olof Mogren
 - Aleksis Pirinen
 publications:
