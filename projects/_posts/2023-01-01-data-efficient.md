@@ -1,6 +1,6 @@
 ---
 title: Robust Machine Learning for Earth Observation
-description: "1-year project focusing on data efficient machine learning for earth observation."
+description: "1-year project focusing on data robust machine learning for Earth observation."
 enddate: 2024-12-31
 partners:
 - "[Lund University](https://www.lu.se/)"
