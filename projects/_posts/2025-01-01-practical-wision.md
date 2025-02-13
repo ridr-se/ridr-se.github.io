@@ -6,7 +6,7 @@ partners:
 - "[Hushållningssällskapet Skåne](https://hushallningssallskapet.se/hushallningssallskapet-skane/)"
 - "[Nordic Beet](https://www.nordicbeet.nu/en/)"
 funders:
-- FORMAS.
+- [FORMAS](https://formas.se/en)
 people:
 - Aleksis Pirinen
 publications:
