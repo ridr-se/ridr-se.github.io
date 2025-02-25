@@ -52,13 +52,13 @@ Defended his MSc in engineering mathematics at Chalmers University of Technology
 
 <br break="all" />
 
-**Maria Bånkestad, MSc**
+**Maria Bånkestad, PhD**
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/bankestad.png" />
 
+Senior Researcher at RISE Research Institutes of Sweden.
+Defended her PhD thesis (conducted both at RISE and Uppsala University) in 2025.
 Defended her MSc in enigneering physics from Royal Institute of Technology in 2012.
-Researcher and PhD candidate at RISE Research Institutes of Sweden.
-Also afiliated with Uppsala University.
 
 * [More info (researcher profile)](https://mariabankestad.github.io/)
 * [Publications (scholar)](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
