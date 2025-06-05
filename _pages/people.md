@@ -9,7 +9,7 @@ author_profile: true
 
 We at the Deep Learning Research Group at RISE are a team of researchers who work on foundational problems within machine learning, and apply our expertise on problems related to climate change and ecology.
 
-**Olof Mogren, PhD**
+**Olof Mogren, PhD, group leader**
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/mogren.png" />
 
