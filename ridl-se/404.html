@@ -1,0 +1,23 @@
+---
+permalink: /404.html
+---
+
+<html>
+<head>
+<title>ridr.se redirect</title>
+<meta http-equiv="refresh" content="5; url=https://ridr.se/">
+<script>
+   l = window.location.href;
+   origin = window.location.origin;
+   suffix = l.substring(origin.length);
+   new_url = "https://ridr.se"+suffix;
+   window.location.href=new_url;
+   document.getElementById("da_a").href=new_url;
+   document.getElementById("da_a").innerHTML=new_url;
+</script>
+</head>
+<body>
+<h1>Redirecting you to <a id='da_a' href="https://ridr.se">ridr.se</a>
+</body>
+</html>
+
