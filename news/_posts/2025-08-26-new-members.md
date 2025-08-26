@@ -7,11 +7,11 @@ people:
 - Olof Mogren
 ---
 
-We are excited to introduce three new researchers joining the RIDR group this year: Isabelle Tingzon, Ayush Prasad, and Fan Wang. Their diverse expertise in remote sensing, AI, and Physics-guided ML will strengthen our work at the intersection of climate, data, and resilience.
+We are excited to introduce three new researchers joining the RIDR group this year: Isabelle Tingzon, Ayush Prasad, and Fan Wang. Their diverse expertise in remote sensing, AI, and physics-guided ML will strengthen our work at the intersection of climate, data, and resilience.
 
 ## Isabelle Tingzon – AI for climate resilience & social good
 
-Isabelle joins us with experience on applying AI and geospatial data science to pressing global challenges. She was previously a Geospatial Data Scientist at the World Bank, leading initiatives on AI-driven climate resilience—from mapping building stock characteristics with drones and satellite imagery to supporting climate adaptation strategies in vulnerable regions.
+Isabelle joins us with experience on applying AI and geospatial data science to pressing global challenges. She was previously a geospatial data scientist at the World Bank, leading initiatives on AI-driven climate resilience—from mapping building stock characteristics with drones and satellite imagery to supporting climate adaptation strategies in vulnerable regions.
 
 Her previous work includes developing AI-enabled school mapping at UNICEF’s Giga initiative, generating nationwide poverty maps in the Philippines, and accelerating humanitarian response during the Venezuelan migration crisis.
 
