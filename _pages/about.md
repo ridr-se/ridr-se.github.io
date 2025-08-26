@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-Welcome to the _Deep Learning Research Group at RISE_.
-We're a [team of researchers](https://dl-group.se/people/) who work on foundational problems within machine learning,
-and apply our expertise on problems related to climate change and ecology. We also host the weekly
+Welcome to the _RIDR, the Deep Learning Research Group at RISE_.
+We're a [team of researchers](https://ridr.se/people/) who work on foundational problems within machine learning,
+and apply our expertise on problems related to climate change and ecology. We founded [Climate AI Nordics](https://climateainordics.com/); we also host the weekly
 [Learning Machines seminar series](https://www.ri.se/en/what-we-do/educations/learning-machines-seminars) at RISE
 -- [have a look](https://www.youtube.com/playlist?list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1) at our great collection of talks.
 
@@ -29,8 +29,10 @@ and apply our expertise on problems related to climate change and ecology. We al
 * [Olof Mogren, PhD](https://mogren.one/)
 * [Aleksis Pirinen, PhD](https://aleksispi.github.io)
 * [Maria Bånkestad, PhD](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
-* [Edvin Listo Zec, PhD](https://edvinli.github.io/)
 * [John Martinsson, MSc, PhD candidate](https://johnmartinsson.org/)
+* [Isabelle Tingzon, MSc, PhD candidate](https://issa-tingzon.github.io)
+* Ayush Prasad, MSc
+* Fan Wang, MSc
 
 [Visit our Scholar profile](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AILGF5UiJtxGkjJ5z3BHO8C37KQwQysUjHyMJAJ1_USVi8t0aoC30hfUabA1jtbynBICV0v_UZzGMFRF8Oq3TtmW4gRaixB3HQ_MIBuoOYsG&user=yc43h58AAAAJ)
 

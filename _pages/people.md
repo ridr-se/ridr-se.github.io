@@ -7,7 +7,7 @@ author_profile: true
 {% endif %}
 {% include base_path %}
 
-We at the Deep Learning Research Group at RISE are a team of researchers who work on foundational problems within machine learning, and apply our expertise on problems related to climate change and ecology.
+RIDR is a team of researchers who work on foundational problems within machine learning, and apply our expertise on problems related to climate change and ecology.
 
 **Olof Mogren, PhD, group leader**
 
@@ -39,19 +39,6 @@ Aleksis' main research interest is to develop machine learning methods for a bro
 
 <br break="all" />
 
-**Edvin Listo Zec, PhD**
-
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/listozec.jpg" />
-
-Senior Researcher at RISE Research Institutes of Sweden.
-Defended his PhD in 2025 at the Royal Institute of Technology.
-Defended his MSc in engineering mathematics at Chalmers University of Technology in 2017.
-
-* [More info (researcher profile)](https://edvinli.github.io)
-* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=Ft52aSsAAAAJ)
-
-<br break="all" />
-
 **Maria Bånkestad, PhD**
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/bankestad.png" />
@@ -78,11 +65,44 @@ Also afiliated with Lund University.
 
 <br break="all" />
 
+**Isabelle Tingzon, MSc**
+
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/tingzon.jpg" />
+
+Defended her MSc in computer science at University of the Philippines Diliman 2018.
+Researcher and PhD candidate at RISE Research Institutes of Sweden.
+Previously at The World Bank and UNICEF.
+Also afiliated with KTH. Supervised by [Yifang Ban](https://www.kth.se/profile/yifang/) and Aleksis Pirinen.
+
+* [More info (researcher profile)](https://issa-tingzon.github.io)
+* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=MGeQcRMAAAAJ)
+
+<br break="all" />
+
+**Ayush Prasad, MSc**
+
+
+Defended his MSc in Theoretical and Computational Methods at University of Helsinki 2024.
+Researcher at RISE Research Institutes of Sweden.
+Previously at Finnish Meteorological Institute.
+
+* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=5rZmFXsAAAAJ)
+
+<br break="all" />
+
+**Fan Wang, MSc**
+
+Defended her MSc in Geomatics at Lund University in 2023.
+Previously at Centre for Environmental and Climate Science, Lund University.
+Researcher at RISE Research Institutes of Sweden.
+
+<br break="all" />
+
 ## Previous members of the lab
 
+* [Edvin Listo Zec, PhD](https://edvinli.github.io)
 * Martin Willbo, MSc
 * Ebba Ekblom, MSc
-* David Vikstrand did an internship at the DL group during the spring of 2024
 
 <!--## Master's Students
 
@@ -90,7 +110,7 @@ The following master's students are currently writing their master's thesis in t
 
 ## Master's Students
 
-The following master's students have written their master's theses in the DL group.
+The following master's students have written their master's theses in RIDR.
 
 * [Emma Amnemyr and Daniel Björklund: Active Learning and Annotation Efficiency for Object Detection in Coffee Farming (Lund University)](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9164704&fileOId=9164725)
 * Oscar Marklund and Richard Lindholm: Active Learning for Sound Analysis (Lund University)
@@ -110,3 +130,8 @@ The following master's students have written their master's theses in the DL gro
 * [Sean Pavlov and Simon Almgren: Entity recognition in swedish medical documents (Chalmers University of Technology 2016)](https://mogren.one/group/2016/almgren-pavlov/)
 * [Hampus Bengtsson and Johannes Jansson: Using Classification Algorithms for Smart Suggestions in Accounting Systems (Chalmers University of Technology 2015)](https://mogren.one/group/2015/bengtsson-jansson/)
 * [Yanling Jin and Albin Bramstång: Constructing a Context-aware Recommender System with Web Sessions (Chalmers University of Technology 2015)](https://mogren.one/group/2015/jin-bramstang/)
+
+## Interns
+
+* David Vikstrand did an internship at the DL group during the spring of 2024
+
