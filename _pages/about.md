@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "RISE DL Research Group"
-excerpt: "RISE DL Research Group"
+title: "RIDR, RISE DL Research Group"
+excerpt: "RIDR, RISE DL Research Group"
 author_profile: true
 redirect_from: 
   - /about/

@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RISE DL Research Group"
+title                    : "RIDR, RISE DL Research Group"
 title_separator          : "-"
-name                     : &name "RISE DL Research Group"
+name                     : &name "RIDR, RISE DL Research Group"
 description              : &description "personal description"
 url                      : https://ridr.se  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
