@@ -1,7 +1,6 @@
 ---
 title: Welcoming Our New RIDR Group Members!
-shortversion: "
-"
+shortversion: "We are excited to welcome three new junior researchers to the RIDR group: Isabelle Tingzon, Ayush Prasad, and Fan Wang. Isabelle has extensive experience applying AI and geospatial data for climate resilience and social good, Ayush specializes in data-driven climate science, from sea-ice prediction to environmental forecasting, and Fan brings expertise in remote sensing and machine learning for vegetation and forest monitoring. Together, they will help strengthen RIDR’s work at the intersection of AI, remote sensing, and climate adaptation."
 people:
 - Aleksis Pirinen
 - Olof Mogren
