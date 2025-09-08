@@ -24,7 +24,7 @@ and apply our expertise on problems related to climate change and ecology. We fo
 
 ## [People](/people/)
 
-![](/images/people/all.jpg)
+![](/images/people/all.png)
 
 * [Olof Mogren, PhD](https://mogren.one/)
 * [Aleksis Pirinen, PhD](https://aleksispi.github.io)
