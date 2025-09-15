@@ -70,9 +70,9 @@ Also afiliated with Lund University.
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/tingzon.jpg" />
 
 Defended her MSc in computer science at University of the Philippines Diliman 2018.
-Researcher and PhD candidate at RISE Research Institutes of Sweden.
+Researcher and PhD candidate at RISE Research Institutes of Sweden. Also afiliated with KTH.
 Previously at The World Bank and UNICEF.
-Also afiliated with KTH. Supervised by [Yifang Ban](https://www.kth.se/profile/yifang/) and Aleksis Pirinen.
+Supervised by [Aleksis Pirinen](https://aleksispi.github.io/) and [Yifang Ban](https://www.kth.se/profile/yifang/).
 
 * [More info (researcher profile)](https://issa-tingzon.github.io)
 * [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=MGeQcRMAAAAJ)
