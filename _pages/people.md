@@ -16,6 +16,7 @@ RIDR is a team of researchers who work on foundational problems within machine l
 Defended his PhD in computer science at Chalmers University of Technology in 2018
 with the thesis [Representation Learning for Natural Language](https://mogren.one/phd/).
 Senior researcher, head of the DL group, and responsible for deep learning research at RISE Research Institutes of Sweden.
+Co-founder of [Climate AI Nordics](https://climateainordics.com/).
 
 Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. 
 
@@ -31,6 +32,7 @@ Olof develops and investigates machine learning based solutions to problems rela
 Defended his PhD in computer vision at Lund University in 2021
 with the thesis [Reinforcement Learning for Active Visual Perception](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13).
 Senior researcher at RISE Research Institutes of Sweden.
+Co-founder of [Climate AI Nordics](https://climateainordics.com/).
 
 Aleksis' main research interest is to develop machine learning methods for a broad range of environmental applications (e.g. climate adaptation and humanitarian aid causes).
 
@@ -58,7 +60,9 @@ Defended her MSc in enigneering physics from Royal Institute of Technology in 20
 
 Defended his MSc in computer science at Chalmers University of Technology in 2017.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
+Core-team member of [Climate AI Nordics](https://climateainordics.com/).
 Also afiliated with Lund University.
+Supervised by [Olof Mogren](https://mogren.ml/) and [Maria Sandsten](https://portal.research.lu.se/en/persons/maria-sandsten).
 
 * [More info (researcher profile)](https://johnmartinsson.org)
 * [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=sAMIwlMAAAAJ)
@@ -72,6 +76,7 @@ Also afiliated with Lund University.
 Defended her MSc in computer science at University of the Philippines Diliman 2018.
 Researcher and PhD candidate at RISE Research Institutes of Sweden. Also afiliated with KTH.
 Previously at The World Bank and UNICEF.
+Core-team member of [Climate Change AI](https://climatechange.ai/).
 Supervised by [Aleksis Pirinen](https://aleksispi.github.io/) and [Yifang Ban](https://www.kth.se/profile/yifang/).
 
 * [More info (researcher profile)](https://issa-tingzon.github.io)
@@ -81,6 +86,7 @@ Supervised by [Aleksis Pirinen](https://aleksispi.github.io/) and [Yifang Ban](h
 
 **Ayush Prasad, MSc**
 
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/prasad.jpg" />
 
 Defended his MSc in Theoretical and Computational Methods at University of Helsinki 2024.
 Researcher at RISE Research Institutes of Sweden.
@@ -91,6 +97,8 @@ Previously at Finnish Meteorological Institute.
 <br break="all" />
 
 **Fan Wang, MSc**
+
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/wang.jpg" />
 
 Defended her MSc in Geomatics at Lund University in 2023.
 Previously at Centre for Environmental and Climate Science, Lund University.
