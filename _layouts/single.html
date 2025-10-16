@@ -57,6 +57,10 @@ layout: default
         </header>
       {% endunless %}
 
+  {% if page.image %}
+        <img src="{{ page.image }}" style="width: 100%;" alt="{{ p.imagealt }}" />
+  {% endif %}
+
       <section class="page__content" itemprop="text">
 	{% capture stripped_content %}{{ content | strip }}{% endcapture %}
 	{% if stripped_content != '' %}
