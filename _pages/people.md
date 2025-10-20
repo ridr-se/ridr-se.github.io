@@ -84,18 +84,6 @@ Supervised by [Aleksis Pirinen](https://aleksispi.github.io/) and [Yifang Ban](h
 
 <br break="all" />
 
-**Ayush Prasad, MSc**
-
-<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/prasad.jpg" />
-
-Defended his MSc in Theoretical and Computational Methods at University of Helsinki 2024.
-Researcher at RISE Research Institutes of Sweden.
-Previously at Finnish Meteorological Institute.
-
-* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=5rZmFXsAAAAJ)
-
-<br break="all" />
-
 **Fan Wang, MSc**
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/wang.jpg" />
