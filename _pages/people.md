@@ -21,7 +21,7 @@ Co-founder of [Climate AI Nordics](https://climateainordics.com/).
 Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. 
 
 * [More info (researcher profile)](https://mogren.one/)
-* [Publications (scholar)](https://scholar.google.se/citations?user=m_n28oAAAAAJ)
+* [Publications (scholar)](https://scholar.google.com/citations?user=m_n28oAAAAAJ)
 
 <br break="all" />
 
@@ -93,6 +93,9 @@ Previously at Centre for Environmental and Climate Science, Lund University.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Supervised by [Olof Mogren](https://mogren.ml/) and [Denis Kleyko](https://www.oru.se/english/employee/denis_kleyko).
 
+* [More info (oru.se)](https://www.oru.se/english/employee/fan_wang)
+* [Publications (scholar)](https://scholar.google.com/citations?user=GyUuge0AAAAJ)
+
 <br break="all" />
 
 **Georgios Filippis, MSc**
@@ -103,6 +106,8 @@ MSc in Global Environmental Change from University of the Aegean in 2024.
 MSc in Space Technologies, Applications & Services from National Kapodestrian University of Athens in 2025.
 Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Supervised by [Olof Mogren](https://mogren.ml/) and [Amy Loutfi](https://www.oru.se/english/employee/amy_loutfi).
+
+* [Publications (scholar)](https://scholar.google.com/citations?user=DXymmlsAAAAJ)
 
 <br break="all" />
 
