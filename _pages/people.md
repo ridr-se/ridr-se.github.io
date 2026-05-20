@@ -90,7 +90,19 @@ Supervised by [Aleksis Pirinen](https://aleksispi.github.io/) and [Yifang Ban](h
 
 Defended her MSc in Geomatics at Lund University in 2023.
 Previously at Centre for Environmental and Climate Science, Lund University.
-Researcher at RISE Research Institutes of Sweden.
+Researcher and PhD candidate at RISE Research Institutes of Sweden.
+Supervised by [Olof Mogren](https://mogren.ml/) and [Denis Kleyko](https://www.oru.se/english/employee/denis_kleyko).
+
+<br break="all" />
+
+**Georgios Filippis, MSc**
+
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/filippis.jpg" />
+
+MSc in Global Environmental Change from University of the Aegean in 2024.
+MSc in Space Technologies, Applications & Services from National Kapodestrian University of Athens in 2025.
+Researcher and PhD candidate at RISE Research Institutes of Sweden.
+Supervised by [Olof Mogren](https://mogren.ml/) and [Amy Loutfi](https://www.oru.se/english/employee/amy_loutfi).
 
 <br break="all" />
 
