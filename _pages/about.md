@@ -28,7 +28,7 @@ and apply our expertise on problems related to climate change and ecology. We fo
 <img src="/images/people/mogren.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
 /><img src="/images/people/pirinen.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
 /><img src="/images/people/bankestad.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
-/><img src="/images/people/martinsson.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
+/><br /><img src="/images/people/martinsson.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
 /><img src="/images/people/tingzon.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
 /><img src="/images/people/wang.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
 /><img src="/images/people/filippis.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;" />
