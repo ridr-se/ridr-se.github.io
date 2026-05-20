@@ -24,13 +24,13 @@ and apply our expertise on problems related to climate change and ecology. We fo
 
 ## [People](/people/)
 
-![](/images/people/mogren.jpg)
-![](/images/people/pirinen.jpg)
-![](/images/people/bankestad.jpg)
-![](/images/people/martinsson.jpg)
-![](/images/people/tingzon.jpg)
-![](/images/people/wang.jpg)
-![](/images/people/filippis.jpg)
+<img src="/images/people/mogren.jpg" style="width: 10em;" />
+<img src="/images/people/pirinen.jpg" style="width: 10em;" />
+<img src="/images/people/bankestad.jpg" style="width: 10em;" />
+<img src="/images/people/martinsson.jpg" style="width: 10em;" />
+<img src="/images/people/tingzon.jpg" style="width: 10em;" />
+<img src="/images/people/wang.jpg" style="width: 10em;" />
+<img src="/images/people/filippis.jpg" style="width: 10em;" />
 
 * [Olof Mogren, PhD](https://mogren.one/)
 * [Aleksis Pirinen, PhD](https://aleksispi.github.io)
