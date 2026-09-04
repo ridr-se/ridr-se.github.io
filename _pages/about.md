@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to the _RIDR, the Deep Learning Research Group at RISE_.
+Welcome to _RIDR, the Deep Learning Research Group at RISE_.
 We're a [team of researchers](https://ridr.se/people/) who work on foundational problems within machine learning,
 and apply our expertise on problems related to climate change and ecology. We founded [Climate AI Nordics](https://climateainordics.com/); we also host the biweekly
 [Learning Machines seminar series](https://www.ri.se/en/what-we-do/educations/learning-machines-seminars) at RISE
@@ -28,15 +28,19 @@ and apply our expertise on problems related to climate change and ecology. We fo
 <img src="/images/people/mogren.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
 /><img src="/images/people/pirinen.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
 /><img src="/images/people/bankestad.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
-/><br /><img src="/images/people/martinsson.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
-/><img src="/images/people/tingzon.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
+/><br />
+<img src="/images/people/heskebeck.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
+/><img src="/images/people/martinsson.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
+/><br />
+<img src="/images/people/tingzon.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
 /><img src="/images/people/wang.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;"
 /><img src="/images/people/filippis.jpg" style="width: 7em; height: 7em; margin: 0px; object-fit: cover;" />
 </center>
 
 * [Olof Mogren, PhD](https://mogren.one/)
 * [Aleksis Pirinen, PhD](https://aleksispi.github.io)
-* [Maria Bånkestad, PhD](https://scholar.google.se/citations?user=4tKNCSkAAAAJ&hl=sv&oi=ao)
+* [Maria Bånkestad, PhD](https://scholar.google.com/citations?user=4tKNCSkAAAAJ)
+* [Frida Heskebeck, PhD](https://heskebeck.com/)
 * [John Martinsson, MSc, PhD candidate](https://johnmartinsson.org/)
 * [Isabelle Tingzon, MSc, PhD candidate](https://issa-tingzon.github.io)
 * [Fan Wang](https://www.oru.se/english/employee/fan_wang), MSc, PhD candidate
